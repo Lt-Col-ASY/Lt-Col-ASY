@@ -1,7 +1,7 @@
 # Hi there, I'm Lt-Col-ASY! 👋
 
 <!-- Optional Banner Image -->
-[Developer.png](https://raw.githubusercontent.com/Lt-Col-ASY/Lt-Col-ASY/refs/heads/main/Developer.png)
+[![Developer.png](https://i.postimg.cc/CxjVjgk3/Developer.png)](https://postimg.cc/zyXMr4d7)
 
 ## About Me 🚀
 
