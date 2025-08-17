@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a curious and motivated **10th-grade student from India** who's diving into the world of **web development**. I enjoy learning how things work, building small projects, and exploring how code can power ideas.
+I'm an enthusiastic and inquisitive **Indian 10th grader** who is delving into the field of **web development**. I like to build small projects, learn how things work, and investigate how ideas can be powered by code.
 
-- 🌱 Currently learning: **React, Node.js, and algorithms**
-- 🔭 Working on: **Mini projects using HTML, CSS, and JavaScript**
-- 🌍 Languages: **English, Hindi**, and programming in **HTML, CSS, JavaScript**
+- 🌱 Currently learning: **React, Node.js, maths, data structures & algorithms**
+- 🔭 Working on: *Small projects with JavaScript, HTML & CSS**
+- 🌍 Languages: **English, Hindi**, and programming in **HTML, CSS & JavaScript**
 - 📫 How to reach me: astik.ayushb@gmail.com
-- ⚡ Fun fact: I love experimenting with code to simulate real-world logic!
+- ⚡ Fun fact: I enjoy experimenting with code to mimic logic in the real world!
 
 ## My Skills 🧠
 
@@ -21,13 +21,13 @@ I'm a curious and motivated **10th-grade student from India** who's diving into 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://nodejs.org/en/docs)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/docs)
 
-> *This is just the beginning—more skills to come as I keep learning!*
+> *I have more skills to come as I continue to learn, so this is just the beginning!*
 
 ## Featured Projects 💻
 
 ### Coming Soon...
 
-I'm currently building up my portfolio with fun and educational projects. Stay tuned!
+I'm currently working on entertaining and instructive projects to expand my portfolio. Stay tuned!
 
 ## Get in Touch 📬
 
