@@ -1,6 +1,5 @@
 # Hi there, I'm Lt-Col-ASY! 👋
 
-<!-- Optional Banner Image -->
 [![Developer.png](https://i.postimg.cc/CxjVjgk3/Developer.png)](https://postimg.cc/zyXMr4d7)
 
 ## About Me 🚀
@@ -32,7 +31,6 @@ I'm currently building up my portfolio with fun and educational projects. Stay t
 
 ## Get in Touch 📬
 
-<!-- Add links if you have them -->
 - 📧 astik.ayushb@gmail.com
 
 Thanks for stopping by! 😊
